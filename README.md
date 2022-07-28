@@ -8,7 +8,7 @@
      
     Modo de Jogo:
       
-       Modo Campanha:
+     Modo Campanha:
        
           1. O modo campanha contém todos os 6 mapas do jogo.
           2. Dificuldade:
@@ -22,7 +22,7 @@
           Obs: é necessária a criação de um arquivo de texto de nome "rank" e colocar o seu endereço de arquivo nas linhas 459 e 512 da classe "JogoCenarioCampanha"                   para que a pontuação seja salva na máquina. 
         
         
-        Modo Seleção de nível:
+     Modo Seleção de nível:
         
           1. Nesse modo, o jogador pode escolher um dos 6 mapas para jogar.
           2. Cada mapa possui 10 maçãs.
