@@ -19,7 +19,7 @@
           3. Cada fase possui 5 maçãs, e o jogador é teletransportado para o próximo nivel após comer todas elas.
           4. Ao encerrar o jogo (ganhar ou perder), o jogador poderá adicionar sua pontuação ao ranking local da máquina. 
 
-          Obs: é necessária a criação de um arquivo de texto de nome "rank" e colocar o seu endereço de arquivo nas linhas 459 e 512 da classe "JogoCenarioCampanha"                   para que a pontuação seja salva na máquina. 
+          Obs: é necessária a criação de um arquivo de texto de nome "rank" e colocar o seu endereço de arquivo nas linhas 459 e 512 da classe "JogoCenarioCampanha" para que a pontuação seja salva na máquina. 
         
         
      Modo Seleção de nível:
