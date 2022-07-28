@@ -5,8 +5,6 @@
 	Controle a cobrinha usando as setas do teclado.
 
 - Regras do jogo:
-     
-    Modo de Jogo:
       
      Modo Campanha:
        
