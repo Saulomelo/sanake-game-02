@@ -16,10 +16,7 @@ import br.com.mvbos.lgj.base.CenarioPadrao;
 import br.com.mvbos.lgj.base.Texto;
 
 public class Jogo extends JFrame {
-
-	/**
-	 * Marcus Vinicius Becker
-	 */
+	
 	private static final long serialVersionUID = 1L;
 
 	private static final int FPS = 1000 / 20;
@@ -146,7 +143,7 @@ public class Jogo extends JFrame {
 				g2d.fillRect(0, 0, JANELA_LARGURA, JANELA_ALTURA);
 
 				if (controleTecla[Tecla.BA.ordinal()]) {
-					// Pressionou espaço ou enter
+					// Pressionou espaÃ§o ou enter
 					if (cenario instanceof InicioCenario) {
 						cenario.descarregar();
 
